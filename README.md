@@ -1,4 +1,4 @@
-# RothC_version_andres
+# Easy_Roth_Carbon
 
 Python version of The Rothamsted carbon model (RothC) 26.3.  
 RothC is a model for the turnover of organic carbon in non-waterlogged topsoil that accounts for the effects of soil type, temperature, soil moisture, and plant cover on the turnover process.
