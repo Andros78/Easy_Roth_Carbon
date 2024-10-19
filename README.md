@@ -57,4 +57,5 @@ Run the `main.py` script to execute the simulation.
 
 ## 4. Example
 
-![Alt text](path_to_image)
+![Alt text](output_data/example/carbon_stocks_per_pool.png)
+![Alt text](output_data/example/emisiones_C_mensuales.png)
