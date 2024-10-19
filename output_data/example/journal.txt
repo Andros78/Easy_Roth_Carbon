@@ -1,0 +1,29 @@
+Dpm_rpm ratio set to 0.13 
+Equilibrium has reached equilibrium in 7 iterations. Carbon input was fixed to 4.957244923539958. (Gradient Descent step = 0.1 and tolerance = 0.01)
+Model init with sucess:
+
+ Parameters set to : 
+  Parameter      Value
+0      Clay  30.000000
+1     Depth  30.000000
+2       SOC  42.000000
+3       DPM   0.096742
+4       RPM   9.979085
+5       HUM  27.704881
+6       BIO   0.754694
+7       IOM   3.460007
+
+
+Hyperparameters set to:
+   Hyperparameters  Value
+0           dpm_k  10.00
+1           rpm_k   0.30
+2           bio_k   0.66
+3           hum_k   0.02
+4         fym_dpm   0.49
+5         fym_rpm   0.49
+6         fym_hum   0.02
+7      decomp_bio   0.46
+8      decomp_hum   0.54
+
+Mean soc_year emissions: 3.2530465619537345

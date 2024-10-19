@@ -1,0 +1,16 @@
+{'HOME' : '',
+'input_data' : 'input_data/',
+'output_data' : 'output_data/', 
+'excel_file' : 'example.xlsx', 
+'excel_sheet'  : 'example',
+'output_folder': 'example', 
+'nbr_year' : '30', 
+'init_mode' : 'spin', 
+'init_set_soc' : None,
+'swc' : '0',
+'SHOW':0, 
+'rmf_min': 0.2,
+'decomp_params': [10, 0.3, 0.66, 0.02],
+'decomp_ratio': [0.46, 0.54], 
+'fym_ratio': [0.49, 0.49, 0.02]
+}
